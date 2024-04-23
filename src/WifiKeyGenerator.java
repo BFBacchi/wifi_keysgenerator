@@ -2,7 +2,7 @@ import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
 
-public class Main{
+public class WifiKeyGenerator{
     // Define el rango de combinaciones de números
     private static final long START_RANGE = 10_000_000L;
     private static final long END_RANGE = 40_000_000L;
